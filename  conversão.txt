@@ -1,0 +1,1 @@
+o valor 5.0 em centímetros corresponde a 1.9500000000000002 valor em polegadas.
